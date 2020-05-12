@@ -1,2 +1,2 @@
 # politicscam
-www.politicscam.com - a PWA
+www.politicscam.com 
